@@ -2,10 +2,11 @@
 name: Bug report for STEM Bot
 about: Issue a bug report about the STEM bot
 title: "[BUG] Something doesn't work as expected"
-labels: ''
-assignees: ''
 
 ---
+
+# BEFORE YOU SUBMIT AN ISSUE, PLEASE CHECK OPEN/CLOSED ISSUES FOR DUPLICATES
+you may delete the line above after checking
 
 **To Reproduce**
 Steps to reproduce the behavior:
