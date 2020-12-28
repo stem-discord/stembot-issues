@@ -8,6 +8,10 @@ title: "[BUG] Something doesn't work as expected"
 # BEFORE YOU SUBMIT AN ISSUE, PLEASE CHECK OPEN/CLOSED ISSUES FOR DUPLICATES
 you may delete the line above after checking
 
+**Please Include `!version` Below**
+on any channel, do `!version` and the bot will return the version info
+paste it below here
+
 **To Reproduce**
 Steps to reproduce the behavior:
 * What roles do you think cause this behavior?
